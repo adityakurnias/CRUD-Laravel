@@ -1,4 +1,4 @@
 <x-layout>
-  <x-slot:judul>{{$judul}}</x-slot:judul>
+  <x-slot:judul>{{ $page }}</x-slot:judul>
   Home Page
 </x-layout>
